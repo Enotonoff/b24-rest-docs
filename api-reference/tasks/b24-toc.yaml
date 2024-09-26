@@ -83,13 +83,17 @@ items:
     include:
       path: user-field/toc.yaml
       mode: link
-  - name: Мой план
+  - name: Мой план и стадии Канбана
     include:
-      path: stages/toc.yaml
+      path: stages/b24-toc.yaml
       mode: link
   - name: План рабочего дня
     include:
       path: planner/toc.yaml
+      mode: link
+  - name: Потоки
+    include:
+      path: flow/b24-toc.yaml
       mode: link
   - name: Устаревшее
     include:

@@ -5,7 +5,7 @@ items:
     href: index.md
   - name: Системные методы
     include:
-      path: system/toc.yaml
+      path: system/b24-toc.yaml
       mode: link
   - name: Информация о пользователе
     include:
@@ -13,7 +13,7 @@ items:
       mode: link
   - name: Настройки приложения
     include:
-      path: settings/toc.yaml
+      path: settings/b24-toc.yaml
       mode: link
   - name: События
     include:

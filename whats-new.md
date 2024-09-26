@@ -2,6 +2,33 @@
 
 ## 2024
 
+### 25 сентября, 2024
+
+- Обновлена документация по [системным методам](./api-reference/common/system/index.md)
+
+### 24 сентября, 2024
+
+- Обновлена документация по событиям [контактов](./api-reference/crm/contacts/events/index.md) и [пользовательских полей контактов](./api-reference/crm/contacts/userfield/events/index.md)
+- Обновлена документация по работе со ставками НДС [catalog.vat.*](./api-reference/catalog/vat/index.md)
+
+### 23 сентября, 2024
+
+- Обновлена документация по основным методам работы со сделками [crm.deal.*](./api-reference/crm/deals/index.md)
+
+### 20 сентября, 2024
+
+- Обновлена документация по общим методам, связанным с хранением и получением [настроек приложения](./api-reference/common/settings/index.md)
+
+### 19 сентября, 2024
+
+- Обновлена документация по встраиванию в виде пользовательских типов полей [userfieldtype.*](./api-reference/widgets/user-field/index.md)
+- Обновлена документация по работе с контактами [crm.contact.*](./api-reference/crm/contacts/index.md)
+- Обновлена документация по работе с пользовательскими полями контактов [crm.contact.userfield.*](./api-reference/crm/contacts/userfield/index.md)
+
+### 17 сентября, 2024
+
+- Добавлена документация по [Потокам](./api-reference/tasks/flow/index.md)
+
 ### 29 августа, 2024
 
 - Спасибо [Andrey Nikolaev](https://github.com/gromdron)! Обновлена статья [Как выполняется запрос](./api-reference/how-to-call-rest-api/general-principles.md), добавлены важные нюансы и наглядные примеры, касающиеся использования метода [batch](./api-reference/how-to-call-rest-api/batch.md)
